@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m a computer science student currently working on Full-Stack Development.<br>🌱 I’m currently learning NodeJS<br>
+🔭 I’m a computer science student currently working on Full-Stack Development.<br>🌱 I’m currently learning React<br>
 
 
 ## 🌐 Socials:
