@@ -1,31 +1,107 @@
-### Hi there 👋
+<br clear="both">
 
-<!--
-**rayyan21d/rayyan21d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img height="220" src="./src/cool-banner.png"  />
+</div>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 💫 About Me:
-🔭 I’m a computer science student currently working on Full-Stack Development.<br>🌱 I’m currently learning React<br>
+<br clear="both">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rayyan21) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rayyan21d) 
+<h2 align="left">Hi  My name is Rayyan and I'm a Full Stack Developer</h2>
 
+###
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rayyan21d&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rayyan21d&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rayyan21d&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h5 align="left">I am an Open Source Enthusiast</h5>
 
+###
 
+<br clear="both">
+
+<img align="right" height="220" src="./src/pfp.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=ts" height="54" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="54" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="54" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="54" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="54" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="54" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="54" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="54" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="54" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="54" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="54" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="54" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="54" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="54" alt="githubactions logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="54" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="54" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="54" alt="supabase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="54" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="54" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="54" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="54" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="54" alt="amazonwebservices logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rayyan21d&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=radical&locale=en&hide_border=false" height="140" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rayyan21d&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" height="140" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rayyan21d&theme=redical&area=true&hide_title=true&hide_border=true&radius=10" height="140" alt="activity-graph graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/rayyan21d/rayyan21d/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/rayyan21" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="linkedin logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=X&logo=twitter&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="medium logo"  />
+  <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="codepen logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="gmail logo"  />
+  <a href="https://www.instagram.com/rayyan21d" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="instagram logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="discord logo"  />
+</div>
+
+###
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rayyan21d.rayyan21d&left_color=black&left_text=Visitors"  />
+
+###
