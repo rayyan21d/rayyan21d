@@ -90,14 +90,24 @@
   <a href="https://www.linkedin.com/in/rayyan21" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="linkedin logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=X&logo=twitter&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="medium logo"  />
-  <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="codepen logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="gmail logo"  />
+  <a href="https://www.x.com/rayyan21d" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=X&logo=twitter&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="twitter logo"  />
+  </a>
+  <a href="https://www.medium.com/@rayyan21d" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="medium logo"  />
+  </a>
+  <a href="https://codepen.io/rayyan21d" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="codepen logo"  />
+  </a>
+  <a href="mailto:rayyan9290@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="gmail logo"  />
+  </a>
   <a href="https://www.instagram.com/rayyan21d" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="instagram logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="discord logo"  />
+  <a href="https://discordapp.com/users/876785318811041803" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="discord logo"  />
+  </a>
 </div>
 
 ###
