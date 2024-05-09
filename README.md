@@ -1,23 +1,22 @@
 <br clear="both">
 
-
   <img src="./src/cool-banner.png"  />
 
-
 ###
 
 <br clear="both">
 
-<h2 align="left">Hi  My name is Rayyan and I'm a Full Stack Developer</h2>
+<h2 align="left">Hi, I'm Rayyan</h2>
 
 ###
 
-<h5 align="left">I am an Open Source Enthusiast</h5>
+<h5 align="left">
+  I enjoy building stuff through code.
+</h5>
 
 ###
 
 <br clear="both">
-
 <img align="right" height="220" src="./src/pfp.gif"  />
 
 ###
