@@ -1,8 +1,8 @@
 <br clear="both">
 
-<div align="center">
-  <img height="220" src="./src/cool-banner.png"  />
-</div>
+
+  <img src="./src/cool-banner.png"  />
+
 
 ###
 
