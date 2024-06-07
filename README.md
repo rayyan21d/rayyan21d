@@ -1,8 +1,3 @@
-<br clear="both">
-
-###
-
-<br clear="both">
 
 <h2 align="left">Hi, I'm Rayyan</h2>
 
