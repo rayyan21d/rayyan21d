@@ -1,7 +1,5 @@
 <br clear="both">
 
-  <img src="./src/cool-banner.png"  />
-
 ###
 
 <br clear="both">
@@ -11,7 +9,7 @@
 ###
 
 <h5 align="left">
-  I enjoy building stuff through code.
+  I love to code. 
 </h5>
 
 ###
@@ -32,39 +30,20 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="54" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="54" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="54" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="54" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="54" alt="cplusplus logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="54" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="54" alt="express logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="54" alt="git logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="54" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=githubactions" height="54" alt="githubactions logo"  />
-  <img width="12" />
+ 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="54" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="54" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=supabase" height="54" alt="supabase logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="54" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="54" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="54" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="54" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="54" alt="amazonwebservices logo"  />
+ 
 </div>
 
 ###
